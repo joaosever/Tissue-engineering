@@ -1,0 +1,1 @@
+A comprehensive analysis of the state-of-the-art for beta cell encapsulations with a proposal for a procedure using PEG-conformal coating with COMSOM Multiphysics for insuline secretion measurements before and after encapsulation.
